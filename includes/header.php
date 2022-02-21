@@ -19,7 +19,7 @@ else {
 
 <html>
 <head>
-	<title>Welcome to My Blog Post!</title>
+	<title>Blog Post Website!</title>
 
 	<!-- Javascript -->
 	<script src="https://ajax.googleapis.com/ajax/libs/jquery/2.1.3/jquery.min.js"></script>
@@ -41,7 +41,7 @@ else {
 	<div class="top_bar"> 
 
 		<div class="logo">
-			<a href="index.php">Hello!</a>
+			<a href="index.php">Blog Post!</a>
 		</div>
 
 
